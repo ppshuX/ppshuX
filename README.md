@@ -66,8 +66,8 @@ Real-time online battle game supporting 3-player matching, skill casting, rankin
 ## 🔗 Let's Connect
 
 - 📫 Email: `2064747320@qq.com`  
-- 🧠 Blog: *Coming soon*  
-- 🧳 Travel Vlog: *Coming soon*  
+- 🧠 [Blog](https://app7534.acapp.acwing.com.cn/blog/)
+- 🧳 [Travel Vlog](https://app7508.acapp.acwing.com.cn/cetapp/) 
 
 ---
 
