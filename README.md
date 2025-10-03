@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jason Grigg （W ૧ H）
+# 👋 Hi, I'm Jason Grigg
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Vue.js+Contributor;Open+Source+Enthusiast;Creative+Problem+Solver" alt="Typing SVG" />
@@ -65,7 +65,7 @@ Real-time online battle game supporting 3-player matching, skill casting, rankin
 
 ## 🔗 Let's Connect
 
-- 📫 Email: `2064747320@qq.com`  
+- 📫 Email: `2064747320（at）qq（dot）com`  
 - 🧠 [Blog](https://app7534.acapp.acwing.com.cn/blog/)
 - 🧳 [Travel Vlog](https://app7508.acapp.acwing.com.cn/cetapp/) 
 
