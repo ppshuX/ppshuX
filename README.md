@@ -32,139 +32,38 @@
 
 </div>
 
-## 🌐 Front-End (Core)
-
-* **Vue3 / Composition API / Pinia / Vue Router**
-* **TypeScript**
-* JavaScript (ES6+) · HTML · CSS · Canvas
-* Component Design & Reuse
-* Web Performance Optimization
-* Vite / Webpack / Module Federation
-
-## 🧱 Back-End (Supportive Strength)
-
-* Spring Boot · Django
-* WebSocket · Redis
-* RESTful API · MySQL
-* Authentication / Token Refresh
-* Microservices Awareness
-
-## ⚙️ Dev Tools
-
-Git · GitHub · Linux · Nginx · Postman · VSCode
-Cloud Deployment (Aliyun) · CI/CD Basics
-
-## 🎧 Interests
-
-Music · AI Tech · Travel · UX · Real-Time Systems
+**Front-End:** Vue3 · TypeScript · JavaScript · Canvas · React  
+**Back-End:** Spring Boot · Django · WebSocket · Redis · MySQL  
+**Tools:** Git · Linux · Nginx · Docker · CI/CD
 
 ---
 
 # 🚀 **Selected Projects**
 
-## 🌐 [Mew](https://github.com/ppshuX/mew) — *Full-Stack Social Platform*
+### 🌐 [Mew](https://github.com/ppshuX/mew) — *Full-Stack Social Platform*
+Vue3 + Django social platform with real-time messaging, blog posts, and personal spaces.
 
-**Vue3 + Django** social platform supporting real-time messaging, global feed, blog posts, and personal spaces.
+### 🤖 [KOB](https://github.com/ppshuX/kob) — *King of Bots Arena*
+Vue3 + Spring Boot bot battle platform with real-time matchmaking and replay system.
 
-**Highlights:**
+### 🎮 [KOF](https://github.com/ppshuX/kof) — *2D Canvas Fighting Game*
+Browser-based fighting game with custom animation engine (60 FPS) and state machine system.
 
-* Vue3 component abstraction · Composition API
-* Token auto-refresh + route guard
-* Real-time updates · responsive layout
-* RESTful API integration + Nginx deployment
-
----
-
-## 🤖 [KOB](https://github.com/ppshuX/kob) — *King of Bots Arena*
-
-Online bot battle platform built with **Vue3 + Spring Boot**, inspired by competitive programming.
-
-**Features:**
-
-* Real-time matchmaking & multi-end rendering
-* Strategy bot execution & replay system
-* State synchronization + custom front-end UI
-* Unified API across Web & App versions
-
----
-
-## 🎮 [KOF](https://github.com/ppshuX/kof) — *2D Canvas Fighting Game*
-
-A fully browser-based fighting game written with **JavaScript + Canvas**.
-
-**Front-End Skills Demonstrated:**
-
-* Custom animation engine (60 FPS)
-* Hit detection · state machine system
-* OOP design · dynamic rendering
-* Inputs, combos, visual feedback
-
----
-
-## ⚔️ [TC-ACApp](https://app7581.acapp.acwing.com.cn) — *Real-Time Multiplayer Game*
-
-**Django + WebSocket + Redis + Canvas** real-time 3-player battle system.
-
-**Front-End Responsibilities:**
-
-* Rendering loop · skill effects
-* State sync under network delay
-* In-game chat UI & interaction logic
-* Real-time event design
-
-**Live Demo:** [https://app7581.acapp.acwing.com.cn](https://app7581.acapp.acwing.com.cn)
+### ⚔️ [AcApp](https://app7581.acapp.acwing.com.cn) — *Real-Time Multiplayer Game*
+Django + WebSocket + Redis real-time 3-player battle system. [Live Demo](https://app7581.acapp.acwing.com.cn)
 
 ---
 
 # 🏆 **Highlights**
 
-* ✔ **Merged PR in Vue.js Documentation**
-* ✔ Selected for a **top-tier tech company's engineering talent program**
-* ✔ Built 4+ full-stack, deployable applications
-* ✔ Strong JS fundamentals demonstrated through Canvas & real-time projects
+* ✔ **Vue.js Official Documentation Contributor** — Merged PR
+* ✔ **Tencent Elite Engineering Talent Program** (青英班)
+* ✔ **15th Blue Bridge Cup** — Provincial Second Prize
+* ✔ 4+ full-stack, deployable applications
 * ✔ Active contributor on GitHub & AcWing
 
 ---
 
-## 📊 **GitHub Stats**
-
-<div align="center">
-  
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ppshuX&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppshuX&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" height="170" />
-  
-</div>
-
-<div align="center">
-  
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ppshuX&theme=tokyonight" alt="GitHub Streak" />
-  
-</div>
-
-<div align="center">
-  
-  <!-- Visitor Badge -->
-  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ppshuX.ppshuX&left_color=gray&right_color=blue)
-  
-</div>
-
----
-
-# 🧠 **Front-End Focus & Philosophy**
-
-I care about building web apps that are:
-
-* ⚡ **Fast** — optimized rendering & lightweight bundles
-* 🧩 **Modular** — clean component architecture
-* 🎨 **User-Friendly** — smooth interaction & visual clarity
-* 🔧 **Maintainable** — readable, scalable code
-* 🌍 **Reliable** — real-time sync & predictable state
-
----
 
 # 🔗 **Let’s Connect**
 
