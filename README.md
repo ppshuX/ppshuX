@@ -13,6 +13,25 @@
 
 # 🛠️ **Tech Stack**
 
+## 🧰 Tech Badges
+
+<div align="center">
+
+![Vue3](https://img.shields.io/badge/Vue3-4FC08D?logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?logo=socketdotio&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Canvas](https://img.shields.io/badge/Canvas-000000?logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+</div>
+
 ## 🌐 Front-End (Core)
 
 * **Vue3 / Composition API / Pinia / Vue Router**
@@ -100,10 +119,38 @@ A fully browser-based fighting game written with **JavaScript + Canvas**.
 # 🏆 **Highlights**
 
 * ✔ **Merged PR in Vue.js Documentation**
-* ✔ Selected for a **top-tier tech company’s engineering talent program**
+* ✔ Selected for a **top-tier tech company's engineering talent program**
 * ✔ Built 4+ full-stack, deployable applications
 * ✔ Strong JS fundamentals demonstrated through Canvas & real-time projects
 * ✔ Active contributor on GitHub & AcWing
+
+---
+
+## 📊 **GitHub Stats**
+
+<div align="center">
+  
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ppshuX&show_icons=true&theme=transparent" height="170" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppshuX&layout=compact&theme=transparent" height="170" />
+  
+</div>
+
+<div align="center">
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ppshuX&theme=transparent" />
+  
+</div>
+
+<div align="center">
+  
+  <!-- Visitor Badge -->
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ppshuX.ppshuX)
+  
+</div>
 
 ---
 
