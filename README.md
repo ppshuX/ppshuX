@@ -1,74 +1,132 @@
-# 👋 Hi, I'm Jason Grigg
+# 👋 Hi, I'm **Jason Grigg**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Vue.js+Contributor;Open+Source+Enthusiast;Creative+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Front-End+Developer+(Vue3+%26+TS);Open+Source+Contributor;Full-Stack+Capability;Creative+Problem+Solver" alt="Typing SVG" />
 </div>
 
-🎓 **Sophomore** @ Nanchang University  
-💻 **Software Engineering** · Full-Stack Developer  
-🎯 **Aspiring Tencent Intern** · Vue.js Contributor · Open Source Enthusiast
+🎓 **Junior (Year 3)** @ Nanchang University
+💻 **Software Engineering** · Front-End Focused · Full-Stack Enabled
+🏢 Selected for a **top-tier tech company's elite engineering talent program**
+🧩 **Vue.js Contributor** · Open Source Enthusiast
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ **Tech Stack**
 
-### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+## 🌐 Front-End (Core)
 
-### Dev Tools & Technologies
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Canvas](https://img.shields.io/badge/HTML5_Canvas-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+* **Vue3 / Composition API / Pinia / Vue Router**
+* **TypeScript**
+* JavaScript (ES6+) · HTML · CSS · Canvas
+* Component Design & Reuse
+* Web Performance Optimization
+* Vite / Webpack / Module Federation
 
-### Interests
-🎵 **Music** · 🤖 **AI** · ✈️ **Travel** · ✍️ **Creative Writing** · 🌐 **Web Development**
+## 🧱 Back-End (Supportive Strength)
 
----
+* Spring Boot · Django
+* WebSocket · Redis
+* RESTful API · MySQL
+* Authentication / Token Refresh
+* Microservices Awareness
 
-## 🚀 Projects
+## ⚙️ Dev Tools
 
-### 🌐 [Mew](https://github.com/ppshuX/mew) — *Social platform inspired by WeChat*
-Built with Django + Vue3, supports real-time chat, moments, blogs, and plaza posts.  
-> `💬 Real-time Chat` · `🌍 Global Feed` · `📝 Personal Blog System`
+Git · GitHub · Linux · Nginx · Postman · VSCode
+Cloud Deployment (Aliyun) · CI/CD Basics
 
-### 🕹️ [KOB](https://github.com/ppshuX/kob) — *King-of-Bots*
-SpringBoot + Vue3 online bot competition platform with ranked match system.  
-> `🤖 Bot Arena` · `🔥 Real-time Matchmaking` · `🧠 Strategy Programming`
+## 🎧 Interests
 
-### 🎮 [KOF](https://github.com/ppshuX/kof) — *2D Canvas Fighting Game*
-A browser-based King-of-Fighters clone using jQuery + Canvas.  
-> `🕹️ Player vs Bot` · `⚔️ Skill Combos` · `💥 Visual Effects`
-
-### ⚔️ [TC-ACApp](https://app7581.acapp.acwing.com.cn) — *Real-time Multiplayer Game*
-> Django + WebSocket | Redis | Thrift RPC | Canvas  
-Real-time online battle game supporting 3-player matching, skill casting, ranking system, and in-game chat  
-- 🧩 **Architecture**: Django Channels + Redis + Thrift + Canvas  
-- 🔧 **Features**: Millisecond state sync, intelligent matching algorithm, fireball & blink skill system  
-- 🖥️ **Live Demo**: [tc-acapp @ AcWing](https://app7581.acapp.acwing.com.cn)
+Music · AI Tech · Travel · UX · Real-Time Systems
 
 ---
 
-## 🏆 Highlight
+# 🚀 **Selected Projects**
 
-✅ Merged PR to [Vue.js Docs](https://github.com/vuejs/docs/pull/3291) by [@NataliaTepluhina](https://github.com/NataliaTepluhina)  
-✅ Built 4 full-stack projects covering front-end frameworks, real-time communication, and multiplayer games  
-✅ Active contributor on GitHub and AcWing
+## 🌐 [Mew](https://github.com/ppshuX/mew) — *Full-Stack Social Platform*
 
----
+**Vue3 + Django** social platform supporting real-time messaging, global feed, blog posts, and personal spaces.
 
+**Highlights:**
 
-## 🔗 Let's Connect
-
-- 📫 Email: `2064747320（at）qq（dot）com`  
-- 🧠 [Blog](https://app7534.acapp.acwing.com.cn/blog/)
-- 🧳 [Travel Vlog](https://app7508.acapp.acwing.com.cn/cetapp/) 
+* Vue3 component abstraction · Composition API
+* Token auto-refresh + route guard
+* Real-time updates · responsive layout
+* RESTful API integration + Nginx deployment
 
 ---
 
-> *"I want to build things that are useful, beautiful, and enduring."*
+## 🤖 [KOB](https://github.com/ppshuX/kob) — *King of Bots Arena*
+
+Online bot battle platform built with **Vue3 + Spring Boot**, inspired by competitive programming.
+
+**Features:**
+
+* Real-time matchmaking & multi-end rendering
+* Strategy bot execution & replay system
+* State synchronization + custom front-end UI
+* Unified API across Web & App versions
+
+---
+
+## 🎮 [KOF](https://github.com/ppshuX/kof) — *2D Canvas Fighting Game*
+
+A fully browser-based fighting game written with **JavaScript + Canvas**.
+
+**Front-End Skills Demonstrated:**
+
+* Custom animation engine (60 FPS)
+* Hit detection · state machine system
+* OOP design · dynamic rendering
+* Inputs, combos, visual feedback
+
+---
+
+## ⚔️ [TC-ACApp](https://app7581.acapp.acwing.com.cn) — *Real-Time Multiplayer Game*
+
+**Django + WebSocket + Redis + Canvas** real-time 3-player battle system.
+
+**Front-End Responsibilities:**
+
+* Rendering loop · skill effects
+* State sync under network delay
+* In-game chat UI & interaction logic
+* Real-time event design
+
+**Live Demo:** [https://app7581.acapp.acwing.com.cn](https://app7581.acapp.acwing.com.cn)
+
+---
+
+# 🏆 **Highlights**
+
+* ✔ **Merged PR in Vue.js Documentation**
+* ✔ Selected for a **top-tier tech company’s engineering talent program**
+* ✔ Built 4+ full-stack, deployable applications
+* ✔ Strong JS fundamentals demonstrated through Canvas & real-time projects
+* ✔ Active contributor on GitHub & AcWing
+
+---
+
+# 🧠 **Front-End Focus & Philosophy**
+
+I care about building web apps that are:
+
+* ⚡ **Fast** — optimized rendering & lightweight bundles
+* 🧩 **Modular** — clean component architecture
+* 🎨 **User-Friendly** — smooth interaction & visual clarity
+* 🔧 **Maintainable** — readable, scalable code
+* 🌍 **Reliable** — real-time sync & predictable state
+
+---
+
+# 🔗 **Let’s Connect**
+
+* 📫 **Email**: 2064747320（at）qq（dot）com
+* 🧠 **Blog**: [https://app7534.acapp.acwing.com.cn/blog/](https://app7534.acapp.acwing.com.cn/blog/)
+* 🎥 **Travel Vlog**: [https://roamio.cn/](https://roamio.cn/)
+* 🪪 **GitHub**: [https://github.com/ppshuX](https://github.com/ppshuX)
+
+---
+
+> *“I want to build things that are useful, beautiful, and enduring.”*
+> — Jason Grigg
